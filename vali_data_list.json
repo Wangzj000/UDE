@@ -1,0 +1,10 @@
+{
+    "files": [
+      "ucr_csv/OliveOil_TEST.csv",
+      "Monash/us_births_dataset.csv",
+      "ucr_csv/Car_TEST.csv",
+      "ucr_csv/InsectEPGRegularTrain_TEST.csv",
+      "ucr_csv/StandWalkJump_TEST.csv",
+      "ucr_csv/Rock_TEST.csv"
+    ]
+  }

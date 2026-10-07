@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SLURM output files
+*.out
+
+# Checkpoints stay outside the published repository
+12Bcheckpoints/
+finetune_checkpoint/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.bin
+*.onnx
+
+# Training outputs
+checkpoints/
+results/
+test_results/
+logs/
+data/
+datasets/
+*.npy
+*.npz
+*.csv
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.env.*
+.venv/
+venv/
